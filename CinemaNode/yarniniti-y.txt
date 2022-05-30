@@ -1,0 +1,11 @@
+yarn add mysql2
+
+npm install -g nodemon
+
+extenções
+
+es7
+
+origamid Next
+
+vscode-icons
